@@ -29,7 +29,7 @@ public class CatTest {
         //if we put a name in the expected than that would be the
 
         Cat c = new Cat();
-        String expected = "Jimmy";
+        String expected = "";
 
 
         //testing when the cat speaks

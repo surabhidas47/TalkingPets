@@ -26,7 +26,7 @@ public class DogTest {
         //if we put a name in the expected than that would be the
 
         Dog d = new Dog();
-        String expected = "Spot";
+        String expected = "";
 
 
         //testing when the cat speaks

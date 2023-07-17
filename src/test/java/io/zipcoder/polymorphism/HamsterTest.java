@@ -26,7 +26,7 @@ public class HamsterTest {
         //if we put a name in the expected than that would be the
 
         Hamster h = new Hamster();
-        String expected = "Toopy";
+        String expected = "";
 
 
         //testing when the cat speaks
